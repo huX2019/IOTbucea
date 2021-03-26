@@ -22,6 +22,9 @@ module.exports = {
   entry: {
     app: './src/main.js'
   },
+  externals:{//配置百度地图
+    'BMap':'BMap',
+  },
   output: {
     path: config.build.assetsRoot,
     filename: '[name].js',
@@ -73,6 +76,7 @@ module.exports = {
         }
       }
     ]
+
   },
   node: {
     // prevent webpack from injecting useless setImmediate polyfill because Vue
