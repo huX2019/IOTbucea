@@ -67,8 +67,12 @@
         <span style="float: left;padding: 20px;">当前位置：{{dataStatistics}}</span>
       </el-main>
       <el-container>
-        <el-main width="80%" style="height:100%;"></el-main>
-        <el-aside width="20%"></el-aside>
+        <el-main width="80%" style="height:100%;">
+          <div style="width: 100%;height: 600px;"></div>
+        </el-main>
+        <el-aside width="20%">
+          <div style="width: 100%;height: 600px;"></div>
+        </el-aside>
       </el-container>
     </el-container>
   </div>
@@ -81,11 +85,11 @@
       return {
         userName: 'Admin',
         pageName: '首页',
-        realTimePointInfo:'实时站点信息',
+        realTimePointInfo: '实时站点信息',
         monPoint: '站点管理',
         dataStatistics: '数据统计',
-        historicalData:'历史数据',
-        warnInfoEdit:'预警信息编辑',
+        historicalData: '历史数据',
+        warnInfoEdit: '预警信息编辑',
         semanticSearch: '语义检索',
       }
     },

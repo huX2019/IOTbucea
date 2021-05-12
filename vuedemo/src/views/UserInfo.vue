@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="hello" style="text-align: center;line-height: 500px">
     <router-link :to="{path:'/HomePage'}">
       <el-button type="success">退出</el-button>
     </router-link>

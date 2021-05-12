@@ -81,11 +81,11 @@
       return {
         userName: 'Admin',
         pageName: '首页',
-        realTimePointInfo:'实时站点信息',
+        realTimePointInfo: '实时站点信息',
         monPoint: '站点管理',
         dataStatistics: '数据统计',
-        historicalData:'历史数据',
-        warnInfoEdit:'预警信息编辑',
+        historicalData: '历史数据',
+        warnInfoEdit: '预警信息编辑',
         semanticSearch: '语义检索',
       }
     },
