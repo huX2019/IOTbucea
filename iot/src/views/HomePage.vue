@@ -67,7 +67,7 @@
         <span style="float: left;padding: 20px;">当前位置：{{pageName}}</span>
       </el-main>
       <el-container>
-        <el-main width="80%" style="height:100%;">
+        <el-main width="80%" style="height:50%;">
           <div class="BMap" style="width: 100%;height: 100%">
             <BMap></BMap>
           </div>
