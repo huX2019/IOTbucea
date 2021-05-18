@@ -764,8 +764,8 @@
             });
           }
         });
-
       },
+
     }
   }
 </script>
@@ -773,7 +773,7 @@
 <style scoped>
   .baiduMap {
     width: 100%;
-    height: 900px;
+    height: 690px;
     overflow: hidden;
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;

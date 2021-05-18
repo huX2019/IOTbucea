@@ -6,7 +6,7 @@
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/vuedemo/node_modules/element-ui" />
+      <root url="file://$PROJECT_DIR$/iot/node_modules/element-ui" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vueProject.iml" filepath="$PROJECT_DIR$/.idea/vueProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iotbucea.iml" filepath="$PROJECT_DIR$/.idea/iotbucea.iml" />
     </modules>
   </component>
 </project>

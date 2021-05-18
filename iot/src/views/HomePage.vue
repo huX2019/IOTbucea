@@ -76,16 +76,16 @@
         <el-aside width="20%">
           <el-row>
             <el-col :span="24"
-                    style="height: 290px;width: 390px;font-size: 30px;background-color: gold;line-height: 290px;margin-left: 15px;text-align: center">
+                    style="height: 220px;width: 290px;font-size: 25px;background-color: gold;line-height: 220px;margin-left: 15px;text-align: center">
               设备状态预警消息 （1）
             </el-col>
             <el-col :span="24"
-                    style="background-color: gold;height: 290px;width: 390px;margin: 15px 0 15px 15px;font-size: 30px;line-height: 290px;text-align: center">
-              数据状态预警消息（2）
+                    style="background-color: gold;height: 220px;width: 290px;margin: 15px 0 15px 15px;font-size: 25px;line-height: 220px;text-align: center">
+              数据状态预警消息 （2）
             </el-col>
             <el-col :span="24"
-                    style="height: 290px;background-color: gold;line-height: 290px;width: 390px;font-size: 30px;margin-left: 15px;text-align: center">
-              园林处理建议提醒（0）
+                    style="height: 220px;background-color: gold;line-height: 220px;width: 290px;font-size: 25px;margin-left: 15px;text-align: center">
+              园林处理建议提醒 （0）
             </el-col>
           </el-row>
         </el-aside>
